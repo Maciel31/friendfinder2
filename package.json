@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrhunter83/FriendFinder.git"
+    "url": "git+https://github.com/Maciel31/friendfinder2.git"
   },
   "author": "Edward Hunter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrhunter83/FriendFinder/issues"
+    "url": "https://github.com/Maciel31/friendfinder2.git"
   },
-  "homepage": "https://github.com/mrhunter83/FriendFinder#readme"
+  "homepage": "https://github.com/Maciel31/friendfinder2.git#readme"
 }
